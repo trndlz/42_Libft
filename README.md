@@ -1,0 +1,2 @@
+# libft
+Functions library
